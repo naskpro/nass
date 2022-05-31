@@ -1159,6 +1159,9 @@ p span.heading_small {
   .m-1 {
     margin: 0.2em;
   }
+
+ 
+
 }
 .mt-1 {
   margin-top: 0.4em;
@@ -1234,6 +1237,11 @@ p span.heading_small {
 @media only screen and (max-width: 768px) {
   .pl-1 {
     padding-left: 0.2em;
+  }
+   a.nas_con{
+    font-size: 20px !important;
+    text-decoration: none;
+    font-family: "dukewide";
   }
 }
 .m-2 {
