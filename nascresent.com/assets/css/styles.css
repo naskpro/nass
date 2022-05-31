@@ -1953,6 +1953,22 @@ p span.heading_small {
   .pl-10 {
     padding-left: 2em;
   }
+
+  .hHRKOk {
+    position: absolute;
+    margin-top: -1.5rem;
+    left: 1rem;
+    font-family: "BradleyHand";
+    font-size: 2rem;
+    color: #43E8B0;
+    transform: rotate(-10deg);
+    line-height: 1;
+}
+
+.mb-1{
+  font-size: 3.5em;
+}
+
 }
 .image__container {
   overflow: hidden;
