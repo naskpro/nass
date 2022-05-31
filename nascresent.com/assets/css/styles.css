@@ -1965,8 +1965,10 @@ p span.heading_small {
     line-height: 1;
 }
 
-.mb-1{
-  font-size: 3.5em;
+.h2.xx-large{
+  font-size: 3.3em;
+    
+    margin-top: 15vw;
 }
 
 }
