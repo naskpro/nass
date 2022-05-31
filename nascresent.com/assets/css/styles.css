@@ -106,16 +106,7 @@
     margin-bottom: 0;
   }
 
-  .hHRKOk {
-    position: absolute;
-    margin-top: -10rem;
-    left: 1rem;
-    font-family: "BradleyHand";
-    font-size: 2rem;
-    color: #43E8B0;
-    transform: rotate(-10deg);
-    line-height: 1;
-}
+ 
 
 
 }
@@ -1026,7 +1017,7 @@ h4.project_bg_sm{
   h5.xx-large,
   h6.xx-large,
   p.xx-large {
-    font-size: 3.73em;
+    font-size: 3.3em;
     line-height: 1.1em;
   }
 }
@@ -1193,7 +1184,8 @@ p span.heading_small {
 }
 @media only screen and (max-width: 768px) {
   .mb-1 {
-    margin-bottom: 0.2em;
+    margin-top: 8vw;
+    margin-bottom: 0em;
   }
 }
 .ml-1 {
@@ -2079,8 +2071,8 @@ span.letter-animate {
   font-size: 2rem;
   color: #43E8B0;
   transform: rotate(-10deg);
-  line-height: 1;
-}
+  line-height: 1;}
+
 
 .x-large-duke{
   font-family: "dukewide";
