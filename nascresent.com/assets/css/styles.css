@@ -105,6 +105,19 @@
   .mobile-block:not(.no-margin) div:last-of-type {
     margin-bottom: 0;
   }
+
+  .hHRKOk {
+    position: absolute;
+    margin-top: -10rem;
+    left: 1rem;
+    font-family: "BradleyHand";
+    font-size: 2rem;
+    color: #43E8B0;
+    transform: rotate(-10deg);
+    line-height: 1;
+}
+
+
 }
 .visually-hidden {
   clip: rect(0 0 0 0);
@@ -1954,16 +1967,7 @@ p span.heading_small {
     padding-left: 2em;
   }
 
-  .hHRKOk {
-    position: absolute;
-    margin-top: -10rem;
-    left: 1rem;
-    font-family: "BradleyHand";
-    font-size: 2rem;
-    color: #43E8B0;
-    transform: rotate(-10deg);
-    line-height: 1;
-}
+ 
 
 
 
