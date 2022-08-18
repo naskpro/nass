@@ -1121,6 +1121,22 @@ ul li.header {
     .sec-img{
         padding-bottom: 30px;
     }
+
+
+	#about .image {
+		width: 85%;
+		height: 50vh;
+		position: absolute;
+		overflow: hidden;
+		top: 15vh;
+		left: 8%; 
+		z-index: -1;
+		opacity: .9;
+	}
+
+	#about .flex .col-1-2:nth-child(1) {
+		padding: 0px 6% 0 0;
+	}
 }
 
 @media all and (min-width: 581px) {
